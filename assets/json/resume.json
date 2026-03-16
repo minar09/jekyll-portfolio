@@ -142,7 +142,7 @@
       "area": "Computer Science and Engineering",
       "studyType": "PhD",
       "startDate": "2026-03-03",
-      "endDate": null,
+      "endDate": "",
       "score": "",
       "courses": [],
       "highlights": [
@@ -225,21 +225,21 @@
       "name": "CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON",
       "publisher": "Asian Conference on Computer Vision (ACCV)",
       "releaseDate": "2020-01-01",
-      "url": "",
+      "url": "https://openaccess.thecvf.com/content/ACCV2020/html/Minar_CloTH-VTON_Clothing_Three-dimensional_reconstruction_for_Hybrid_image-based_Virtual_Try-ON_ACCV_2020_paper.html",
       "summary": "Conference paper on hybrid image-based virtual try-on using 3D clothing reconstruction."
     },
     {
       "name": "3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On",
       "publisher": "CVPR Workshop on Computer Vision for Fashion, Art and Design",
       "releaseDate": "2020-01-01",
-      "url": "",
+      "url": "https://openaccess.thecvf.com/content_CVPRW_2020/html/w50/Minar_3D_Reconstruction_of_Clothes_Using_a_Human_Body_Model_and_CVPRW_2020_paper.html",
       "summary": "Workshop paper on 3D clothes reconstruction and virtual try-on applications."
     },
     {
       "name": "CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On",
       "publisher": "CVPR Workshop on Computer Vision for Fashion, Art and Design",
       "releaseDate": "2020-01-01",
-      "url": "",
+      "url": "https://openaccess.thecvf.com/content_CVPRW_2020/html/w50/Minar_CP-VTON_Clothing_Pose_and_Texture_Preserving_Image-Based_Virtual_Try-On_CVPRW_2020_paper.html",
       "summary": "Improved virtual try-on method preserving clothing shape and texture."
     }
   ],
