@@ -1,453 +1,466 @@
 {
-  "cv": {
+  "basics": {
     "name": "Matiur Rahman Minar",
-    "label": "PhD Student & Researcher",
-    "email": "minar.matiurrahman@gmail.com",
-    "location": "Seoul, Republic of Korea",
+    "label": "PhD Student & AI Researcher",
     "image": "",
+    "email": "minar09.bd@gmail.com",
     "summary": "AI/ML and Computer Vision researcher with 6+ years of applied research experience in computer vision, 3D reconstruction, and geospatial AI. Published 5+ papers in top-tier venues (CVPRW, ACCV, IEEE Access), with industry expertise in E-commerce, healthcare AI, smart cities, and LLM. Currently pursuing PhD in Computer Science at Sogang University, focusing on computer vision, 3D reconstruction, GenAI, and Context-aware LLM agents.",
-    "social_networks": [
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": ""
+    },
+    "profiles": [
       {
         "network": "GitHub",
-        "username": "minar09"
+        "username": "minar09",
+        "url": "https://github.com/minar09"
       },
       {
         "network": "LinkedIn",
-        "username": "minar09"
+        "username": "minar09",
+        "url": "https://www.linkedin.com/in/minar09/"
       },
       {
         "network": "Google Scholar",
-        "username": "eQX-7Q4AAAAJ"
-      }
-    ],
-    "address": {
-      "street": "",
-      "city": "Seoul",
-      "region": "",
-      "postalCode": "",
-      "countryCode": "KR"
+        "username": "eQX-7Q4AAAAJ",
+        "url": "https://scholar.google.com/citations?user=eQX-7Q4AAAAJ&hl=en"
+      },
+      {
+        "network": "X",
+        "username": "minar09",
+        "url": "https://www.x.com/minar09/"
+      },
+    ]
+  },
+  "work": [
+    {
+      "name": "Alteredverse Pte Ltd.",
+      "position": "Deep Learning Engineer",
+      "location": "Singapore (Remote)",
+      "url": "https://www.alteredverse.net/",
+      "startDate": "2023-05-01",
+      "endDate": "2026-02-24",
+      "summary": "Led R&D for geospatial AI pipelines (3D reconstruction, LLM integration) with direct applications to smart city planning and metaverse development.",
+      "highlights": [
+        "Designed end-to-end 3D vision pipeline for urban geospatial data with 98% automation rate in digital twin creation",
+        "Developed LLM-powered NPCs for virtual malls and crowdtale games, increasing engagement by 40%",
+        "Led research in multi-view 3D textured mesh reconstruction",
+        "Key projects: Geospatial AI, World of Malls, Crowdtale apps"
+      ]
     },
-    "sections": {
-      "Education": [
-        {
-          "institution": "Sogang University",
-          "location": "Seoul, Republic of Korea",
-          "url": "https://cs.sogang.ac.kr/cs/index_new.html",
-          "area": "Computer Science and Engineering",
-          "studyType": "PhD",
-          "start_date": "2026",
-          "end_date": "Present",
-          "score": "",
-          "courses": "",
-          "highlights": [
-            "Graduate Research Assistant in Computer Vision Lab",
-            "Advisor: Prof. Dr. Unsang Park"
-          ]
-        },
-        {
-          "institution": "Seoul National University of Science and Technology (SeoulTech)",
-          "location": "Seoul, Republic of Korea",
-          "url": "https://www.seoultech.ac.kr/",
-          "area": "Electrical and Information Engineering",
-          "studyType": "MS",
-          "start_date": "2019",
-          "end_date": "2021",
-          "score": "",
-          "highlights": [
-            "Thesis: A Study on 3D reconstruction from clothing image and application to Virtual Try-On",
-            "Advisor: Prof. Dr. Heejune Ahn",
-            "Research Assistant at Multimedia Computing Lab"
-          ]
-        },
-        {
-          "institution": "Bangladesh University of Engineering and Technology (BUET)",
-          "location": "Dhaka, Bangladesh",
-          "url": "https://cse.buet.ac.bd/",
-          "area": "Computer Science and Engineering",
-          "studyType": "BSc",
-          "start_date": "2010",
-          "end_date": "2015",
-          "score": "",
-          "highlights": [
-            "Thesis: Measurement of Vital Signs with Non-invasive and Wireless Sensing Technologies and Health Monitoring",
-            "Advisor: Prof. Dr. S. M. Farhad"
-          ]
-        }
-      ],
-      "Experience": [
-        {
-          "company": "Alteredverse Pte Ltd.",
-          "position": "Deep Learning Engineer",
-          "location": "Singapore (Remote)",
-          "url": "https://www.alteredverse.net/",
-          "start_date": "2023-05",
-          "end_date": "2026-02",
-          "summary": "Led R&D for geospatial AI pipelines (3D reconstruction, LLM integration) with direct applications to smart city planning and metaverse development.",
-          "highlights": [
-            "Designed end-to-end 3D vision pipeline for urban geospatial data with 98% automation rate in digital twin creation",
-            "Developed LLM-powered NPCs for virtual malls and crowdtale games, increasing engagement by 40%",
-            "Led research in multi-view 3D textured mesh reconstruction",
-            "Key projects: Geospatial AI, World of Malls, Crowdtale apps"
-          ]
-        },
-        {
-          "company": "Robi Axiata Limited",
-          "position": "Manager (New Core Planning)",
-          "location": "Dhaka, Bangladesh",
-          "url": "https://www.robi.com.bd/",
-          "start_date": "2022-05",
-          "end_date": "2023-04",
-          "summary": "Led development of high-impact telecom solutions serving 53M+ users, achieving 99.99% system uptime and 40% faster transaction processing.",
-          "highlights": [
-            "Managed cross-functional teams delivering critical projects with 100% on-time completion",
-            "Led multiple R&D projects from concept to completion",
-            "Planned and designed business requirements, infrastructure, and capacity for high-revenue applications"
-          ]
-        },
-        {
-          "company": "NetTargets Inc.",
-          "position": "AI Engineer",
-          "location": "Daejeon, Korea",
-          "url": "https://www.net-targets.com/",
-          "start_date": "2021-02",
-          "end_date": "2022-04",
-          "summary": "Designed graph ML models for drug discovery, reducing timelines by 60%.",
-          "highlights": [
-            "Developed novel deep learning models achieving 85% prediction accuracy",
-            "Architected ML pipeline processing 100M+ molecular structures, identifying 1000+ drug candidates",
-            "Implemented production-grade drug-drug interaction prediction system",
-            "Key projects: DrugDiscovery AI, Protein Interaction Predictor"
-          ]
-        },
-        {
-          "company": "Automation Solutionz Inc.",
-          "position": "Framework Architect",
-          "location": "Waterloo, Ontario, Canada (Remote)",
-          "url": "https://www.zeuz.ai/",
-          "start_date": "2015-08",
-          "end_date": "2018-07",
-          "summary": "Developed and maintained an industry-leading end-to-end automated testing framework.",
-          "highlights": [
-            "Increased product quality by 45% through innovative testing solutions",
-            "Reduced testing cycle time by 60% for multiple client projects",
-            "Improved test coverage by 80% across implemented projects",
-            "Key project: ZeuZ Framework"
-          ]
-        }
-      ],
-      "Research Experience": [
-        {
-          "company": "Seoul National University of Science and Technology (SeoulTech)",
-          "position": "Research Assistant",
-          "location": "Seoul, Republic of Korea",
-          "start_date": "2019-03",
-          "end_date": "2021-01",
-          "summary": "Conducted advanced research in fashion-clothing virtual try-on technologies at Multimedia Computing Lab.",
-          "highlights": [
-            "Published 3 peer-reviewed papers in top computer vision journals & conferences",
-            "Developed state-of-the-art 3D clothing reconstruction and virtual try-on algorithms",
-            "Research published at CVPRW 2020 led to 40% accuracy improvement adopted by Korean fashion e-commerce platforms"
-          ]
-        },
-        {
-          "company": "Seoul National University of Science and Technology (SeoulTech)",
-          "position": "Research Intern",
-          "location": "Seoul, Republic of Korea",
-          "start_date": "2018-09",
-          "end_date": "2019-02",
-          "summary": "Specialized in fashion-clothing segmentation and deep learning.",
-          "highlights": [
-            "Gained hands-on experience in advanced computer vision techniques",
-            "Contributed to cutting-edge research in virtual try-on technologies"
-          ]
-        }
-      ],
-      "Part-time & Contract Roles": [
-        {
-          "company": "Fashionade Inc.",
-          "position": "Machine Learning Engineer (Part-time)",
-          "location": "Seoul, Korea (Remote)",
-          "url": "https://company.fashionade.ai/",
-          "start_date": "2022-08",
-          "end_date": "2022-12",
-          "summary": "Developed cutting-edge fashion AI solutions using deep neural networks and computer vision.",
-          "highlights": [
-            "Deployed production ML models for virtual try-on with 90% accuracy",
-            "Implemented REST API-based model evaluation system for real-time fashion recommendation"
-          ]
-        },
-        {
-          "company": "Asset Science LLC",
-          "position": "Software Automation Tester (Contract)",
-          "location": "Waterloo, Ontario, Canada (Remote)",
-          "url": "https://assetscience.com/",
-          "start_date": "2015-12",
-          "end_date": "2017-01",
-          "summary": "Designed and executed comprehensive test automation using Selenium and Appium.",
-          "highlights": [
-            "Reduced manual testing efforts by 60% through automated test case implementation"
-          ]
-        },
-        {
-          "company": "Automation Solutionz Inc.",
-          "position": "Software Developer (Part-time)",
-          "location": "Waterloo, Ontario, Canada (Remote)",
-          "url": "https://www.zeuz.ai/",
-          "start_date": "2014-01",
-          "end_date": "2015-08",
-          "summary": "Developed a scriptless test automation framework adopted as a top software testing platform.",
-          "highlights": [
-            "Collaborated effectively with cross-functional teams to deliver projects on time and budget"
-          ]
-        }
-      ],
-      "Awards": [
-        {
-          "title": "2nd Place Winner - LIP Challenge Track 3",
-          "authors": [
-            "CVPR 2020 Workshop"
-          ],
-          "date": "2020",
-          "awarder": "Workshop on Towards Human-Centric Image/Video Synthesis",
-          "url": "https://vuhcs.github.io/",
-          "summary": "Image-based Multi-pose Virtual Try-on Challenge. Team: Thai Thanh Tuan, Matiur Rahman Minar, Heejune Ahn."
-        },
-        {
-          "title": "Innovation Award 2024",
-          "authors": [
-            "Google Cloud"
-          ],
-          "date": "2024",
-          "awarder": "Google Cloud AI Trailblazers 2.0 Challenge",
-          "url": "",
-          "summary": "Awarded to Alteredverse PTE Ltd. for innovative AI solutions."
-        },
-        {
-          "title": "Q3 2022 Best Developer Award",
-          "authors": [
-            "Robi Axiata Limited"
-          ],
-          "date": "2022",
-          "awarder": "Robi Axiata Limited",
-          "url": "",
-          "summary": "Recognition for outstanding development work in telecom solutions."
-        }
-      ],
-      "Publications": [
-        {
-          "title": "CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON",
-          "authors": [
-            "Matiur Rahman Minar",
-            "Thai Thanh Tuan",
-            "Heejune Ahn"
-          ],
-          "publisher": "IEEE Access",
-          "releaseDate": "2021",
-          "url": "https://doi.org/10.1109/ACCESS.2021.3060120",
-          "summary": "Extended work on 3D clothing reconstruction for virtual try-on applications."
-        },
-        {
-          "title": "Multiple Pose Virtual Try-On Based on 3D Clothing Reconstruction",
-          "authors": [
-            "Thai Thanh Tuan",
-            "Matiur Rahman Minar",
-            "Heejune Ahn",
-            "John Wainwright"
-          ],
-          "publisher": "IEEE Access",
-          "releaseDate": "2021",
-          "url": "https://doi.org/10.1109/ACCESS.2021.3105349",
-          "summary": "Novel approach to virtual try-on supporting multiple poses using 3D reconstruction."
-        },
-        {
-          "title": "CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON",
-          "authors": [
-            "Matiur Rahman Minar",
-            "Heejune Ahn"
-          ],
-          "publisher": "Asian Conference on Computer Vision (ACCV)",
-          "releaseDate": "2020",
-          "url": "",
-          "summary": "Conference paper on hybrid image-based virtual try-on using 3D clothing reconstruction."
-        },
-        {
-          "title": "3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On",
-          "authors": [
-            "Matiur Rahman Minar",
-            "Thai Thanh Tuan",
-            "Heejune Ahn",
-            "Paul Rosin",
-            "Yu-Kun Lai"
-          ],
-          "publisher": "CVPR Workshop on Computer Vision for Fashion, Art and Design",
-          "releaseDate": "2020",
-          "url": "",
-          "summary": "Workshop paper on 3D clothes reconstruction and virtual try-on applications."
-        },
-        {
-          "title": "CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On",
-          "authors": [
-            "Matiur Rahman Minar",
-            "Thai Thanh Tuan",
-            "Heejune Ahn",
-            "Paul Rosin",
-            "Yu-Kun Lai"
-          ],
-          "publisher": "CVPR Workshop on Computer Vision for Fashion, Art and Design",
-          "releaseDate": "2020",
-          "url": "",
-          "summary": "Improved virtual try-on method preserving clothing shape and texture."
-        }
-      ],
-      "Skills": [
-        {
-          "name": "Research Areas",
-          "level": "",
-          "icon": "fa-solid fa-brain",
-          "keywords": "Computer Vision, 3D Reconstruction, Generative AI, Virtual Try-On, Geospatial AI, Digital Twin, Healthcare ML, Deep Learning, LLM"
-        },
-        {
-          "name": "Programming",
-          "level": "",
-          "icon": "fa-solid fa-code",
-          "keywords": "Python (Expert), JavaScript, C, C++, C#, MATLAB, Java, R, Julia"
-        },
-        {
-          "name": "AI/ML Frameworks",
-          "level": "",
-          "icon": "fa-solid fa-robot",
-          "keywords": "PyTorch (Expert), TensorFlow (Expert), Keras, Graph ML"
-        },
-        {
-          "name": "Large Language Models",
-          "level": "",
-          "icon": "fa-solid fa-language",
-          "keywords": "GPT, Gemini, LLAMA, DeepSeek, Qwen, InternVL"
-        },
-        {
-          "name": "Agentic AI",
-          "level": "",
-          "icon": "fa-solid fa-network-wired",
-          "keywords": "Pydantic AI, OpenAI Agents, LangChain Agents, MCP Servers"
-        },
-        {
-          "name": "3D Vision & Graphics",
-          "level": "",
-          "icon": "fa-solid fa-cube",
-          "keywords": "Open3D (Expert), MeshLab, OpenDR, PyRender, Trimesh"
-        },
-        {
-          "name": "Web Development",
-          "level": "",
-          "icon": "fa-solid fa-globe",
-          "keywords": "Flask, FastAPI, Django, React, Node.js, REST APIs"
-        },
-        {
-          "name": "Databases",
-          "level": "",
-          "icon": "fa-solid fa-database",
-          "keywords": "PostgreSQL (Expert), MySQL, Neo4j, MongoDB"
-        },
-        {
-          "name": "DevOps & Tools",
-          "level": "",
-          "icon": "fa-solid fa-server",
-          "keywords": "Git, DVC, Docker, AWS, GCP"
-        }
-      ],
-      "Languages": [
-        {
-          "name": "English",
-          "summary": "Professional/Fluent (TOEFL: 101/120)"
-        },
-        {
-          "name": "Bangla",
-          "summary": "Native speaker"
-        },
-        {
-          "name": "Arabic",
-          "summary": "Intermediate - Modern Standard Arabic diploma"
-        }
-      ],
-      "Projects": [
-        {
-          "name": "GeoAI",
-          "summary": "Led 3D vision R&D for geospatial AI converting LiDAR urban point clouds into 3D virtual cities.",
-          "highlights": [
-            "Technologies: TensorFlow, PyTorch, Open3D, GIS tools, Unreal Engine",
-            "98% automation rate in digital twin creation"
-          ],
-          "start_date": "2023",
-          "end_date": "2026",
-          "url": "https://www.alteredverse.net/"
-        },
-        {
-          "name": "World of Malls",
-          "summary": "Built and integrated custom LLM-powered NPCs for 3D virtual shopping malls and crowd-tale games.",
-          "highlights": [
-            "Technologies: AI Agents, MCP Servers, Node.js, React, GCP, Vertex AI, NVIDIA NIM",
-            "40% increase in virtual mall engagement"
-          ],
-          "start_date": "2023",
-          "end_date": "2026",
-          "url": "https://www.worldofmalls.com/"
-        },
-        {
-          "name": "StyleAI",
-          "summary": "ML research and development for fashion-clothing-based virtual try-on and colorization.",
-          "highlights": [
-            "Technologies: PyTorch, TensorFlow, OpenCV, Pillow",
-            "90% accuracy in production models"
-          ],
-          "start_date": "2022",
-          "end_date": "2022",
-          "url": "https://styleai.io/"
-        },
-        {
-          "name": "AI-powered Drug Discovery",
-          "summary": "Production-level ML systems for drug discovery and repurposing.",
-          "highlights": [
-            "Technologies: TensorFlow, Keras, PyTorch, Python, R, Julia, GCP",
-            "85% prediction accuracy, 60% reduction in discovery timeline"
-          ],
-          "start_date": "2021",
-          "end_date": "2022",
-          "url": "https://www.net-targets.com/"
-        },
-        {
-          "name": "Virtual Try-On",
-          "summary": "State-of-the-art fashion clothing-based virtual try-on research at SeoulTech.",
-          "highlights": [
-            "Technologies: PyTorch, OpenCV, Python, MATLAB, OpenDR",
-            "Published 3 papers in top-tier venues (CVPRW, ACCV)"
-          ],
-          "start_date": "2019",
-          "end_date": "2021",
-          "url": "https://square.seoultech.ac.kr/~icom/lab_intro.html"
-        }
-      ],
-      "References": [
-        {
-          "name": "Prof. Dr. Heejune Ahn",
-          "icon": "fa-solid fa-user-tie",
-          "reference": "Professor, Department of Electrical and Information Engineering, Seoul National University of Science and Technology. Email: heejune@seoultech.ac.kr"
-        },
-        {
-          "name": "Prof. Dr. Unsang Park",
-          "icon": "fa-solid fa-user-tie",
-          "reference": "Professor, Department of Computer Science and Engineering, Sogang University. Advisor for current PhD studies."
-        },
-        {
-          "name": "Prof. Jung-Su Kim",
-          "icon": "fa-solid fa-user-tie",
-          "reference": "Professor, Department of Electrical and Information Engineering, Seoul National University of Science and Technology. Email: jungsu@seoultech.ac.kr"
-        },
-        {
-          "name": "Dr. Thai Thanh Tuan",
-          "icon": "fa-solid fa-user-graduate",
-          "reference": "Postdoctoral Researcher, Jeju National University. Collaborator on multiple publications. Email: thaithanhtuan@jejunu.ac.kr"
-        }
+    {
+      "name": "Robi Axiata Limited",
+      "position": "Manager (New Core Planning)",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.robi.com.bd/",
+      "startDate": "2022-05-01",
+      "endDate": "2023-04-30",
+      "summary": "Led development of high-impact telecom solutions serving 53M+ users, achieving 99.99% system uptime and 40% faster transaction processing.",
+      "highlights": [
+        "Managed cross-functional teams delivering critical projects with 100% on-time completion",
+        "Led multiple R&D projects from concept to completion",
+        "Planned and designed business requirements, infrastructure, and capacity for high-revenue applications"
+      ]
+    },
+    {
+      "name": "NetTargets Inc.",
+      "position": "AI Engineer",
+      "location": "Daejeon, Korea",
+      "url": "https://www.net-targets.com/",
+      "startDate": "2021-02-01",
+      "endDate": "2022-04-30",
+      "summary": "Designed graph ML models for drug discovery, reducing timelines by 60%.",
+      "highlights": [
+        "Developed novel deep learning models achieving 85% prediction accuracy",
+        "Architected ML pipeline processing 100M+ molecular structures, identifying 1000+ drug candidates",
+        "Implemented production-grade drug-drug interaction prediction system",
+        "Key projects: DrugDiscovery AI, Protein Interaction Predictor"
+      ]
+    },
+    {
+      "name": "Automation Solutionz Inc.",
+      "position": "Framework Architect",
+      "location": "Waterloo, Ontario, Canada (Remote)",
+      "url": "https://www.zeuz.ai/",
+      "startDate": "2015-08-01",
+      "endDate": "2018-07-31",
+      "summary": "Developed and maintained an industry-leading end-to-end automated testing framework.",
+      "highlights": [
+        "Increased product quality by 45% through innovative testing solutions",
+        "Reduced testing cycle time by 60% for multiple client projects",
+        "Improved test coverage by 80% across implemented projects",
+        "Key project: ZeuZ Framework"
+      ]
+    },
+    {
+      "name": "Fashionade Inc.",
+      "position": "Machine Learning Engineer (Part-time)",
+      "location": "Seoul, Korea (Remote)",
+      "url": "https://company.fashionade.ai/",
+      "startDate": "2022-08-01",
+      "endDate": "2022-12-31",
+      "summary": "Developed cutting-edge fashion AI solutions using deep neural networks and computer vision.",
+      "highlights": [
+        "Deployed production ML models for virtual try-on with 90% accuracy",
+        "Implemented REST API-based model evaluation system for real-time fashion recommendation"
+      ]
+    },
+    {
+      "name": "Asset Science LLC",
+      "position": "Software Automation Tester (Contract)",
+      "location": "Waterloo, Ontario, Canada (Remote)",
+      "url": "https://assetscience.com/",
+      "startDate": "2015-12-01",
+      "endDate": "2017-01-31",
+      "summary": "Designed and executed comprehensive test automation using Selenium and Appium.",
+      "highlights": [
+        "Reduced manual testing efforts by 60% through automated test case implementation"
+      ]
+    },
+    {
+      "name": "Automation Solutionz Inc.",
+      "position": "Software Developer (Part-time)",
+      "location": "Waterloo, Ontario, Canada (Remote)",
+      "url": "https://www.zeuz.ai/",
+      "startDate": "2014-01-01",
+      "endDate": "2015-08-31",
+      "summary": "Developed a scriptless test automation framework adopted as a top software testing platform.",
+      "highlights": [
+        "Collaborated effectively with cross-functional teams to deliver projects on time and budget"
       ]
     }
-  }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sogang University",
+      "location": "Seoul, Republic of Korea",
+      "url": "https://cs.sogang.ac.kr/cs/index_new.html",
+      "area": "Computer Science and Engineering",
+      "studyType": "PhD",
+      "startDate": "2026-03-03",
+      "endDate": null,
+      "score": "",
+      "courses": [],
+      "highlights": [
+        "Graduate Research Assistant in Computer Vision Lab",
+        "Advisor: Prof. Dr. Unsang Park"
+      ]
+    },
+    {
+      "institution": "Seoul National University of Science and Technology (SeoulTech)",
+      "location": "Seoul, Republic of Korea",
+      "url": "https://www.seoultech.ac.kr/",
+      "area": "Electrical and Information Engineering",
+      "studyType": "MS",
+      "startDate": "2019-01-01",
+      "endDate": "2021-02-24",
+      "score": "",
+      "courses": [],
+      "highlights": [
+        "Thesis: A Study on 3D reconstruction from clothing image and application to Virtual Try-On",
+        "Advisor: Prof. Dr. Heejune Ahn",
+        "Research Assistant at Multimedia Computing Lab"
+      ]
+    },
+    {
+      "institution": "Bangladesh University of Engineering and Technology (BUET)",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://cse.buet.ac.bd/",
+      "area": "Computer Science and Engineering",
+      "studyType": "BSc",
+      "startDate": "2010-05-22",
+      "endDate": "2015-08-15",
+      "score": "",
+      "courses": [],
+      "highlights": [
+        "Thesis: Measurement of Vital Signs with Non-invasive and Wireless Sensing Technologies and Health Monitoring",
+        "Advisor: Prof. Dr. S. M. Farhad"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "2nd Place Winner - LIP Challenge Track 3",
+      "date": "2020-06-01",
+      "awarder": "Workshop on Towards Human-Centric Image/Video Synthesis",
+      "url": "https://vuhcs.github.io/",
+      "summary": "Image-based Multi-pose Virtual Try-on Challenge at CVPR 2020. Team: Thai Thanh Tuan, Matiur Rahman Minar, Heejune Ahn."
+    },
+    {
+      "title": "Innovation Award 2024",
+      "date": "2024-01-01",
+      "awarder": "Google Cloud AI Trailblazers 2.0 Challenge",
+      "url": "",
+      "summary": "Awarded to Alteredverse PTE Ltd. for innovative AI solutions."
+    },
+    {
+      "title": "Q3 2022 Best Developer Award",
+      "date": "2022-09-01",
+      "awarder": "Robi Axiata Limited",
+      "url": "",
+      "summary": "Recognition for outstanding development work in telecom solutions."
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON",
+      "publisher": "IEEE Access",
+      "releaseDate": "2021-01-01",
+      "url": "https://doi.org/10.1109/ACCESS.2021.3060120",
+      "summary": "Extended work on 3D clothing reconstruction for virtual try-on applications."
+    },
+    {
+      "name": "Multiple Pose Virtual Try-On Based on 3D Clothing Reconstruction",
+      "publisher": "IEEE Access",
+      "releaseDate": "2021-01-01",
+      "url": "https://doi.org/10.1109/ACCESS.2021.3105349",
+      "summary": "Novel approach to virtual try-on supporting multiple poses using 3D reconstruction."
+    },
+    {
+      "name": "CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON",
+      "publisher": "Asian Conference on Computer Vision (ACCV)",
+      "releaseDate": "2020-01-01",
+      "url": "",
+      "summary": "Conference paper on hybrid image-based virtual try-on using 3D clothing reconstruction."
+    },
+    {
+      "name": "3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On",
+      "publisher": "CVPR Workshop on Computer Vision for Fashion, Art and Design",
+      "releaseDate": "2020-01-01",
+      "url": "",
+      "summary": "Workshop paper on 3D clothes reconstruction and virtual try-on applications."
+    },
+    {
+      "name": "CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On",
+      "publisher": "CVPR Workshop on Computer Vision for Fashion, Art and Design",
+      "releaseDate": "2020-01-01",
+      "url": "",
+      "summary": "Improved virtual try-on method preserving clothing shape and texture."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Areas",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Computer Vision",
+        "3D Reconstruction",
+        "Generative AI",
+        "Virtual Try-On",
+        "Geospatial AI",
+        "Digital Twin",
+        "Healthcare ML",
+        "Deep Learning",
+        "LLM"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "C",
+        "C++",
+        "C#",
+        "MATLAB",
+        "Java",
+        "R",
+        "Julia"
+      ]
+    },
+    {
+      "name": "AI/ML Frameworks",
+      "level": "Expert",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Graph ML"
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "level": "",
+      "icon": "fa-solid fa-language",
+      "keywords": [
+        "GPT",
+        "Gemini",
+        "LLAMA",
+        "DeepSeek",
+        "Qwen",
+        "InternVL"
+      ]
+    },
+    {
+      "name": "Agentic AI",
+      "level": "",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "Pydantic AI",
+        "OpenAI Agents",
+        "LangChain Agents",
+        "MCP Servers"
+      ]
+    },
+    {
+      "name": "3D Vision & Graphics",
+      "level": "Expert",
+      "icon": "fa-solid fa-cube",
+      "keywords": [
+        "Open3D",
+        "MeshLab",
+        "OpenDR",
+        "PyRender",
+        "Trimesh"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "icon": "fa-solid fa-globe",
+      "keywords": [
+        "Flask",
+        "FastAPI",
+        "Django",
+        "React",
+        "Node.js",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Expert",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "Neo4j",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "DevOps & Tools",
+      "level": "",
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "Git",
+        "DVC",
+        "Docker",
+        "AWS",
+        "GCP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional/Fluent (TOEFL: 101/120)",
+      "icon": ""
+    },
+    {
+      "language": "Bangla",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Intermediate - Modern Standard Arabic diploma",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Vision Research",
+      "icon": "fa-solid fa-eye",
+      "keywords": [
+        "3D Reconstruction",
+        "Generative AI",
+        "Virtual Try-On",
+        "Geospatial AI"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Dr. Heejune Ahn",
+      "icon": "fa-solid fa-user-tie",
+      "reference": "Professor, Department of Electrical and Information Engineering, Seoul National University of Science and Technology. Email: heejune@seoultech.ac.kr"
+    },
+    {
+      "name": "Prof. Dr. Unsang Park",
+      "icon": "fa-solid fa-user-tie",
+      "reference": "Professor, Department of Computer Science and Engineering, Sogang University. Advisor for current PhD studies."
+    },
+    {
+      "name": "Prof. Jung-Su Kim",
+      "icon": "fa-solid fa-user-tie",
+      "reference": "Professor, Department of Electrical and Information Engineering, Seoul National University of Science and Technology. Email: jungsu@seoultech.ac.kr"
+    },
+    {
+      "name": "Dr. Thai Thanh Tuan",
+      "icon": "fa-solid fa-user-graduate",
+      "reference": "Postdoctoral Researcher, Jeju National University. Collaborator on multiple publications. Email: thaithanhtuan@jejunu.ac.kr"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GeoAI",
+      "summary": "Led 3D vision R&D for geospatial AI converting LiDAR urban point clouds into 3D virtual cities.",
+      "highlights": [
+        "Technologies: TensorFlow, PyTorch, Open3D, GIS tools, Unreal Engine",
+        "98% automation rate in digital twin creation"
+      ],
+      "startDate": "2023-05-01",
+      "endDate": "2026-02-01"
+    },
+    {
+      "name": "World of Malls",
+      "summary": "Built and integrated custom LLM-powered NPCs for 3D virtual shopping malls and crowd-tale games.",
+      "highlights": [
+        "Technologies: AI Agents, MCP Servers, Node.js, React, GCP, Vertex AI, NVIDIA NIM",
+        "40% increase in virtual mall engagement"
+      ],
+      "startDate": "2023-05-01",
+      "endDate": "2026-02-01"
+    },
+    {
+      "name": "StyleAI",
+      "summary": "ML research and development for fashion-clothing-based virtual try-on and colorization.",
+      "highlights": [
+        "Technologies: PyTorch, TensorFlow, OpenCV, Pillow",
+        "90% accuracy in production models"
+      ],
+      "startDate": "2022-08-01",
+      "endDate": "2022-12-01"
+    },
+    {
+      "name": "AI-powered Drug Discovery",
+      "summary": "Production-level ML systems for drug discovery and repurposing.",
+      "highlights": [
+        "Technologies: TensorFlow, Keras, PyTorch, Python, R, Julia, GCP",
+        "85% prediction accuracy, 60% reduction in discovery timeline"
+      ],
+      "startDate": "2021-02-01",
+      "endDate": "2022-04-01"
+    },
+    {
+      "name": "Virtual Try-On",
+      "summary": "State-of-the-art fashion clothing-based virtual try-on research at SeoulTech.",
+      "highlights": [
+        "Technologies: PyTorch, OpenCV, Python, MATLAB, OpenDR",
+        "Published 3 papers in top-tier venues (CVPRW, ACCV)"
+      ],
+      "startDate": "2019-03-01",
+      "endDate": "2021-01-01"
+    }
+  ]
 }
