@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -18,6 +18,7 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
+---
 
 I am currently a PhD student and Graduate Research Assistant at [Sogang University](https://ecs.sogang.ac.kr/ecs/index_new.html), advised by [Prof. Unsang Park](https://cviplab.sogang.ac.kr/cviplab/index.html). My research focuses on **computer vision** and deep learning, with particular interest in generative AI and 3D reconstruction.
 
@@ -26,5 +27,3 @@ Previously, I worked as a Deep Learning Engineer at [Alteredverse](https://www.a
 I completed my MS from [SeoulTech](https://www.seoultech.ac.kr/), where I worked on computer vision and deep learning under the supervision of [Prof. Heejune Ahn](https://square.seoultech.ac.kr/~icom/). I hold a BSc in CSE from [BUET](https://cse.buet.ac.bd/).
 
 I'm always open to collaborations and discussions about computer vision, deep learning, and AI research. Feel free to reach out!
-
----
