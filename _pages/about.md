@@ -7,10 +7,8 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true  # crops the image to make it circular
   more_info: >
-    <p>R913, CVIP Lab,</p>
-    <p>Sogang University,</p>
     <p>Seoul, Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,12 +18,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
 
 I am currently a PhD student and Graduate Research Assistant in the [Computer Science and Engineering department at Sogang University](https://ecs.sogang.ac.kr/ecs/index_new.html), advised by [Prof. Unsang Park](https://cviplab.sogang.ac.kr/cviplab/index.html). My research focuses on **computer vision** and deep learning, with particular interest in generative AI and 3D reconstruction.
 
