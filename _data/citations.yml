@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-05-15'
 papers:
   eQX-7Q4AAAAJ:0EnyYjriUFMC:
-    citations: 59
+    citations: 61
     title: 'CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON'
     year: '2021'
   eQX-7Q4AAAAJ:2osOgNQ5qMEC:
@@ -34,7 +34,7 @@ papers:
     title: Performance Evaluation of VTON (Virtual-Try-On) Algorithms using a Pair of Cloth and Human Image
     year: '2019'
   eQX-7Q4AAAAJ:WF5omc3nYNoC:
-    citations: 200
+    citations: 210
     title: 'CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On'
     year: '2020'
   eQX-7Q4AAAAJ:YOwf2qJgpHMC:
@@ -50,15 +50,15 @@ papers:
     title: 3D reconstruction of a single clothing image and its application to image-based virtual try-on
     year: '2020'
   eQX-7Q4AAAAJ:hqOjcs7Dif8C:
-    citations: 59
+    citations: 61
     title: 'CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON'
     year: '2020'
   eQX-7Q4AAAAJ:kNdYIx-mwKoC:
-    citations: 24
+    citations: 26
     title: Multiple pose virtual try-on based on 3D clothing reconstruction
     year: '2021'
   eQX-7Q4AAAAJ:qjMakFHDy7sC:
-    citations: 210
+    citations: 211
     title: 'Recent Advances in Deep Learning: An Overview'
     year: Unknown Year
   eQX-7Q4AAAAJ:u-x6o8ySG0sC:
