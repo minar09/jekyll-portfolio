@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-05'
 papers:
   eQX-7Q4AAAAJ:0EnyYjriUFMC:
-    citations: 62
+    citations: 59
     title: 'CloTH-VTON+: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON'
     year: '2021'
   eQX-7Q4AAAAJ:2osOgNQ5qMEC:
-    citations: 27
+    citations: 26
     title: 'Violence originated from Facebook: A case study in Bangladesh'
     year: Unknown Year
   eQX-7Q4AAAAJ:4TOpqqG69KYC:
@@ -26,7 +26,7 @@ papers:
     title: 'Supplementary Material CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON'
     year: Unknown Year
   eQX-7Q4AAAAJ:Se3iqnhoufwC:
-    citations: 13
+    citations: 14
     title: 'Recent advances in deep learning: An overview. arXiv 2018'
     year: Unknown Year
   eQX-7Q4AAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: Performance Evaluation of VTON (Virtual-Try-On) Algorithms using a Pair of Cloth and Human Image
     year: '2019'
   eQX-7Q4AAAAJ:WF5omc3nYNoC:
-    citations: 219
+    citations: 221
     title: 'CP-VTON+: Clothing Shape and Texture Preserving Image-Based Virtual Try-On'
     year: '2020'
   eQX-7Q4AAAAJ:YOwf2qJgpHMC:
@@ -58,15 +58,15 @@ papers:
     title: 'Recent advances in deep learning: an overview; 2018'
     year: Unknown Year
   eQX-7Q4AAAAJ:hqOjcs7Dif8C:
-    citations: 62
+    citations: 0
     title: 'CloTH-VTON: Clothing Three-dimensional reconstruction for Hybrid image-based Virtual Try-ON'
     year: '2020'
   eQX-7Q4AAAAJ:kNdYIx-mwKoC:
-    citations: 27
+    citations: 24
     title: Multiple pose virtual try-on based on 3D clothing reconstruction
     year: '2021'
   eQX-7Q4AAAAJ:qjMakFHDy7sC:
-    citations: 213
+    citations: 210
     title: 'Recent Advances in Deep Learning: An Overview'
     year: Unknown Year
   eQX-7Q4AAAAJ:u-x6o8ySG0sC:
@@ -78,10 +78,10 @@ papers:
     title: Remote Health Monitoring in the Context of Bangladesh
     year: '2015'
   eQX-7Q4AAAAJ:ufrVoPGSRksC:
-    citations: 11
+    citations: 12
     title: 3D Reconstruction of Clothes using a Human Body Model and its Application to Image-based Virtual Try-On
     year: '2020'
   eQX-7Q4AAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: Fashion-show Animation Generation using a Single Image to 3D Human Reconstruction Technique
     year: '2019'
